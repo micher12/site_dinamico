@@ -1,96 +1,96 @@
 <h1>Site Dinâmico COMPLETO</h1>
 <div align='center'>
   <h2>Formulários: </h2>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/66bf9ad2-a9a3-4183-b95f-dc5e60f3b60a'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/707ba937-0b89-4974-b771-dbfb8f9869db'>
 </div>
 <p>É possível cadastrar o email para receber novidades!</p>
 <br/>
 
 <h3>Sobre: </h3>
-<img src='https://github.com/micher12/site_dinamico/assets/84326814/73da031d-0c9e-49e8-8e6f-964b05a63c26'>
+<img src='https://github.com/micher12/site_dinamico/assets/84326814/71723bd6-cc40-4347-9170-1d516ae61c4c'>
 <p>Sobre totalmente dinâmico editado e criado pelo <b>Painel de Controle!</b></p>
 <br/>
 
 <h3>Slider:</h3>
 <div align='center'>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/5f2d59fd-1ae1-432a-b7c7-23fd5e3cbe42'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/d9f20dab-e8a6-494d-856b-6942ce91fb4d'>
 </div>
 <p>Sliders totalmente responsivos e dinâmicos sendo editado o texto a imagem a ordem de exibição e excluido pelo <b>Painel de Controle!</b></p>
 <br/>
 
 <h3>Depimento:</h3>
 <div align='center'>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/b3f41730-9e1e-43d0-913c-ed29bb6b1bb2'>  
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/975c10b6-be4a-454a-81c5-a439a49bfe89'>  
 </div>
 <p>Cadastro da aba de depoimentos e de serviços totalmente dinâmicos sendo adicionado editado definida a ordem e deletado pelo <b>Painel de Controle!</b> </p>
 <br/>
 
 <h3>Notícias: </h3>
 <div align='center'>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/7baa1ce9-fdcb-4075-9342-a8d84ae7b4bc'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/36f61b52-a126-43cb-b4a1-cceac094a082'>
 </div>
 <p>Pagina de noticias que são catalogadas por categorias e as noticias são exibidas conforme selecionado, completamente dinâmico sendo possível editar pelo <b>Painel de Controle!<b/> o nome da categoria, titulo da noticia a notícia inteira, como imagens a partir de urls além de exclui-las </p>
 <br/>
 <div align='center'>
   <h3>Exemplo de noticia: </h3>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/37094266-6c25-455d-aa95-66850dc72f6d'> 
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/9ac0368b-8592-4eea-a742-7028935b76c5'> 
   <h3>Noticia inteira: </h3>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/c532714a-9c93-4c16-be1c-b26586ba10d3'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/183790a6-487d-4b91-b6b4-fb3ba25d54af'>
 </div>
 <br/>
 
 
 <h3>Página de contato:</h3>
 <div align='center'>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/c4da65a1-dd58-42ed-9f45-1c0ef421a71c'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/9e50cd03-8395-4ef4-bdf9-42fdb3c7f9aa'>
 </div>
 <p>Api do google para melhor experiência com o google maps personalizado</p>
 <br/>
 <div align='center'>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/1c0b7a1c-f364-49d8-8ef3-943f6886bd37'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/b62d883f-b640-4efb-8f0d-7b4cbf27c77f'>
   <br/>
   <p>Resultado do cadastro</p>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/6a5fb4c9-16c4-4ad0-94a1-ac2d5cb91a6a'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/02131dfa-fc03-47ba-be9c-74a18e9716cb'>
 </div>
 <br/>
 
 <h3>Entrar/Registar: </h3>
 <div align='center'>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/2cc1d23d-10ce-4b76-a8c9-5867e2f4b2be'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/9e644d26-e872-413f-a0ea-9b38318535e3'>
   <br/>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/f5189d7f-66e5-4638-bbf5-e308d13f01b9'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/335aca8e-8bfb-4629-b1f5-0afccf9fdced'>
   <h4>Confirmação de de email com codigo enviado para melhor segurança além de outras medidas internas e externas</h4>
 </div>
 <br/>
 
 <h1>Painel de Controle</h1>
 <div align='center'>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/0c315789-fe5d-418a-8574-1ea7f506115b'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/9a031f2c-5b93-4d87-bc9b-957a7534e8db'>
 </div>
 <h3>Cargos </h3>
 <p>Existem 3 <b>niveis</b> sendo 0 o usuário normal e 1 moderador e 2 administrador, a exibição muda de acordo com a a permisssão do perfil</p>
 <div align='center'>
-<img src='https://github.com/micher12/site_dinamico/assets/84326814/8731b749-9a19-4f7c-92d9-00d8273fab9f'>
+<img src='https://github.com/micher12/site_dinamico/assets/84326814/9468c07d-c8d4-45af-9772-c9c093d61e17'>
 <h3>Admin</h3>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/2452fd5b-9d95-4fa1-91af-a31a4c68968c'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/202c6486-1130-4909-ae61-1ac9afd484cf'>
 </div>
 <p>Administradores é o cargo maximo que pode alterar dados de qualquer outro usuário principalmente para problemas relacionada com contas e definir cargos de moderadores</p>
 <br/>
 <div align='center'>
 <h3>Moderador</h3>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/a2ddc3a3-16c3-4cc3-b8ee-17f3147d641f'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/30f3216c-1ee7-4ae3-a9d1-6fa6ccc6410e'>
 </div>
 <p>Moderador é o cargo que tem permissão para editar adicionar e excluir coteúdos do site como os depoimentos, sliders etc...</p>
 <br/>
 <h3>Configurações gerais</h3>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/977902d2-4667-40f3-abb2-f0d37acab1dc'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/624bafed-cc30-4d63-9b65-1da9a4c2cf5a'>
 </div>
 <p>Aba relacionada as configurações gerais e também para entrar na sessão de criar / editar e excluir categorias ou noticias!</p>
 <br/>
 
 <h1>Segurança e MySql Data Base</h1>
 <div align='center'>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/44304076-8be7-4fa3-a06e-4d71b41a7587'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/150afc38-2aa9-44df-8053-d65c0be94041'>
 </div>
 <h3>Segurança:</h3>
 <p>Os metodos usados para acessar o banco de dados é 100% seguro contra ataques de php injection entre outros.</p>
