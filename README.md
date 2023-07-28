@@ -61,5 +61,41 @@
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/f5189d7f-66e5-4638-bbf5-e308d13f01b9'>
   <h4>Confirmação de de email com codigo enviado para melhor segurança além de outras medidas internas e externas</h4>
 </div>
-
 <br/>
+
+<h1>Painel de Controle</h1>
+<div align='center'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/0c315789-fe5d-418a-8574-1ea7f506115b'>
+</div>
+<h3>Cargos </h3>
+<p>Existem 3 <b>niveis</b> sendo 0 o usuário normal e 1 moderador e 2 administrador, a exibição muda de acordo com a a permisssão do perfil</p>
+<div align='center'>
+<img src='https://github.com/micher12/site_dinamico/assets/84326814/8731b749-9a19-4f7c-92d9-00d8273fab9f'>
+<h3>Admin</h3>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/2452fd5b-9d95-4fa1-91af-a31a4c68968c'>
+</div>
+<p>Administradores é o cargo maximo que pode alterar dados de qualquer outro usuário principalmente para problemas relacionada com contas e definir cargos de moderadores</p>
+<br/>
+<div align='center'>
+<h3>Moderador</h3>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/a2ddc3a3-16c3-4cc3-b8ee-17f3147d641f'>
+</div>
+<p>Moderador é o cargo que tem permissão para editar adicionar e excluir coteúdos do site como os depoimentos, sliders etc...</p>
+<br/>
+<h3>Configurações gerais</h3>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/977902d2-4667-40f3-abb2-f0d37acab1dc'>
+</div>
+<p>Aba relacionada as configurações gerais e também para entrar na sessão de criar / editar e excluir categorias ou noticias!</p>
+<br/>
+
+<h1>Segurança e MySql Data Base</h1>
+<div align='center'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/44304076-8be7-4fa3-a06e-4d71b41a7587'>
+</div>
+<h3>Segurança:</h3>
+<p>Os metodos usados para acessar o banco de dados é 100% seguro contra ataques de php injection entre outros.</p>
+<h3>Informações:</h3>
+<p>Todas as informações estão guardadas no banco de dados da hospedagem. Sempre protegidas pelo dominio e certificado SSL fornecidos pela mesma.</p>
+<br/>
+
+
