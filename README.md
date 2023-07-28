@@ -36,12 +36,16 @@
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/37094266-6c25-455d-aa95-66850dc72f6d'> 
   <h3>Noticia inteira: </h3>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/c532714a-9c93-4c16-be1c-b26586ba10d3'>
-
 </div>
-
+<br/>
 
 
 <h3>Página de contato:</h3>
+<div align='center'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/c4da65a1-dd58-42ed-9f45-1c0ef421a71c'>
+</div>
+<p>Api do google para melhor experiência com o google maps personalizado</p>
+<br/>
 <div align='center'>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/1c0b7a1c-f364-49d8-8ef3-943f6886bd37'>
   <br/>
@@ -50,13 +54,12 @@
 </div>
 <br/>
 
+<h3>Entrar/Registar: </h3>
+<div align='center'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/2cc1d23d-10ce-4b76-a8c9-5867e2f4b2be'>
+  <br/>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/f5189d7f-66e5-4638-bbf5-e308d13f01b9'>
+  <h4>Confirmação de de email com codigo enviado para melhor segurança além de outras medidas internas e externas</h4>
+</div>
 
-
-
-
-
-
-
-
-
-
+<br/>
