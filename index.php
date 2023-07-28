@@ -169,7 +169,7 @@
     if($url == 'contato'){
 ?>
 <script defer src="<?php echo INCLUDE_PATH; ?>js/map.js"></script>
-<script defer src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyAuoClS5Cd2s2MSbHkI1ITZgoxC40rBBQg&callback=Function.prototype'></script>
+<script defer src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=CHAVEDAAPIGOOGLE&callback=Function.prototype'></script>
 
 <?php
     }
