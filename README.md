@@ -1,65 +1,90 @@
-<h1>Site Dinâmico COMPLETO</h1>
+# 🔮 Site Dinâmico
+
+<br/>
+
+### 📩 Formulários:
+<p>É possível cadastrar o email para receber novidades!</p>
 <div align='center'>
-  <h2>Formulários: </h2>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/707ba937-0b89-4974-b771-dbfb8f9869db'>
 </div>
-<p>É possível cadastrar o email para receber novidades!</p>
+
 <br/>
 
-<h3>Sobre: </h3>
+### 🧑🏻‍🦱 Sobre:
+<p>Sobre totalmente dinâmico, editavel e criado pelo <b>Painel de Controle!</b></p>
+<div align='center'>
 <img src='https://github.com/micher12/site_dinamico/assets/84326814/71723bd6-cc40-4347-9170-1d516ae61c4c'>
-<p>Sobre totalmente dinâmico editado e criado pelo <b>Painel de Controle!</b></p>
+</div>
+
 <br/>
 
-<h3>Slider:</h3>
+### ⏯️ Slider:
+<p>Sliders totalmente responsivos e dinâmicos sendo possível editar o texto a imagem a ordem de exibição e excluido pelo <b>Painel de Controle!</b></p>
 <div align='center'>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/d9f20dab-e8a6-494d-856b-6942ce91fb4d'>
 </div>
-<p>Sliders totalmente responsivos e dinâmicos sendo editado o texto a imagem a ordem de exibição e excluido pelo <b>Painel de Controle!</b></p>
+
 <br/>
 
-<h3>Depimento:</h3>
+### 📞 Depoimento:
+<p>Cadastro da aba de depoimentos e de serviços totalmente dinâmicos sendo adicionado editado definida a ordem e deletado pelo <b>Painel de Controle!</b> </p>
 <div align='center'>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/975c10b6-be4a-454a-81c5-a439a49bfe89'>  
 </div>
-<p>Cadastro da aba de depoimentos e de serviços totalmente dinâmicos sendo adicionado editado definida a ordem e deletado pelo <b>Painel de Controle!</b> </p>
+
 <br/>
 
-<h3>Notícias: </h3>
+### 📰 Notícias:
+<p>Pagina de noticias que são catalogadas por categorias e as noticias são exibidas conforme selecionado, completamente dinâmico sendo possível editar pelo <b>Painel de Controle!<b/> o nome da categoria, titulo da noticia a notícia inteira, como imagens a partir de urls além de exclui-las </p>
 <div align='center'>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/36f61b52-a126-43cb-b4a1-cceac094a082'>
 </div>
-<p>Pagina de noticias que são catalogadas por categorias e as noticias são exibidas conforme selecionado, completamente dinâmico sendo possível editar pelo <b>Painel de Controle!<b/> o nome da categoria, titulo da noticia a notícia inteira, como imagens a partir de urls além de exclui-las </p>
+
 <br/>
+
+### ❓ Exemplo de noticia:
 <div align='center'>
-  <h3>Exemplo de noticia: </h3>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/9ac0368b-8592-4eea-a742-7028935b76c5'> 
-  <h3>Noticia inteira: </h3>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/183790a6-487d-4b91-b6b4-fb3ba25d54af'>
 </div>
+
 <br/>
 
+# 📋 Página de contato:
 
-<h3>Página de contato:</h3>
+<br/>
+
+### 🗺️ Localização
+<p>Api do google para melhor experiência com o google maps personalizado</p>
 <div align='center'>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/9e50cd03-8395-4ef4-bdf9-42fdb3c7f9aa'>
 </div>
-<p>Api do google para melhor experiência com o google maps personalizado</p>
-<br/>
-<div align='center'>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/b62d883f-b640-4efb-8f0d-7b4cbf27c77f'>
-  <br/>
-  <p>Resultado do cadastro</p>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/02131dfa-fc03-47ba-be9c-74a18e9716cb'>
-</div>
+
 <br/>
 
-<h3>Entrar/Registar: </h3>
+### 📝 Formulário de contato: 
+
+<br/>
+
 <div align='center'>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/9e644d26-e872-413f-a0ea-9b38318535e3'>
-  <br/>
-  <img src='https://github.com/micher12/site_dinamico/assets/84326814/335aca8e-8bfb-4629-b1f5-0afccf9fdced'>
-  <h4>Confirmação de de email com codigo enviado para melhor segurança além de outras medidas internas e externas</h4>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/b62d883f-b640-4efb-8f0d-7b4cbf27c77f'>
+</div>
+
+### Resultado do formulário
+
+<br/>
+
+<div align='center'>
+  <img src='https://github.com/micher12/site_dinamico/assets/84326814/02131dfa-fc03-47ba-be9c-74a18e9716cb'>
+</div>
+
+<br/>
+
+## Página para login e register
+Confirmação de de email com codigo enviado para melhor segurança além de outras medidas internas e externas
+<div>
+  <img style="width: 340px" src='https://github.com/micher12/site_dinamico/assets/84326814/9e644d26-e872-413f-a0ea-9b38318535e3'>
+  <img style="width: 340px" src='https://github.com/micher12/site_dinamico/assets/84326814/335aca8e-8bfb-4629-b1f5-0afccf9fdced'>
+  
 </div>
 <br/>
 
