@@ -11,7 +11,7 @@
 <br/>
 
 ### 🧑🏻‍🦱 Sobre:
-<p>Sobre totalmente dinâmico, editavel e criado pelo <b>Painel de Controle!</b></p>
+<p>Sobre totalmente dinâmico, editável e criado pelo <b>Painel de Controle!</b></p>
 <div align='center'>
 <img src='https://github.com/micher12/site_dinamico/assets/84326814/71723bd6-cc40-4347-9170-1d516ae61c4c'>
 </div>
@@ -19,7 +19,7 @@
 <br/>
 
 ### ⏯️ Slider:
-<p>Sliders totalmente responsivos e dinâmicos sendo possível editar o texto a imagem a ordem de exibição e excluido pelo <b>Painel de Controle!</b></p>
+<p>Slides totalmente responsivos e dinâmicos sendo possível editar o texto a imagem a ordem de exibição e excluído pelo <b>Painel de Controle!</b></p>
 <div align='center'>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/d9f20dab-e8a6-494d-856b-6942ce91fb4d'>
 </div>
@@ -35,7 +35,7 @@
 <br/>
 
 ### 📰 Notícias:
-<p>Pagina de noticias que são catalogadas por categorias e as noticias são exibidas conforme selecionado, completamente dinâmico sendo possível editar pelo <b>Painel de Controle!<b/> o nome da categoria, titulo da noticia a notícia inteira, como imagens a partir de urls além de exclui-las </p>
+<p>Pagina de notícias que são catalogadas por categorias e as notícias são exibidas conforme selecionado, completamente dinâmico sendo possível editar pelo <b>Painel de Controle!<b/> o nome da categoria, título da notícia a notícia inteira, como imagens a partir de urls além de exclui-las </p>
 <div align='center'>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/36f61b52-a126-43cb-b4a1-cceac094a082'>
 </div>
@@ -79,7 +79,7 @@
 <br/>
 
 ## Página para login e register
-Confirmação de de email com codigo enviado para melhor segurança além de outras medidas internas e externas
+Confirmação de de e-mail com código enviado para melhor segurança além de outras medidas internas e externas
 <div>
   <img style="width: 340px" src='https://github.com/micher12/site_dinamico/assets/84326814/9e644d26-e872-413f-a0ea-9b38318535e3'>
   <img style="width: 340px" src='https://github.com/micher12/site_dinamico/assets/84326814/335aca8e-8bfb-4629-b1f5-0afccf9fdced'>
@@ -99,12 +99,12 @@ Aqui é uma parte que requer login para ter acesso e cada login tem diferentes c
 <br/>
 
 ## Cargos
-Existem 3 <b>niveis</b> sendo 0 o usuário normal e 1 moderador e 2 administrador, a exibição muda de acordo com a a permisssão do perfil
+Existem 3 <b>níveis</b> sendo 0 o usuário normal e 1 moderador e 2 administrador, a exibição muda de acordo com a a permissão do perfil
 
 <br/>
 
 ### Admin
-Administradores é o cargo maximo que pode alterar dados de qualquer outro usuário principalmente para problemas relacionada com contas e definir cargos de moderadores
+Administradores é o cargo máximo que pode alterar dados de qualquer outro usuário principalmente para problemas relacionada com contas e definir cargos de moderadores
 <div align='center'>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/9468c07d-c8d4-45af-9772-c9c093d61e17'>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/202c6486-1130-4909-ae61-1ac9afd484cf'>
@@ -113,7 +113,7 @@ Administradores é o cargo maximo que pode alterar dados de qualquer outro usuá
 <br/>
 
 ### Moderador
-<p>Moderador é o cargo que tem permissão para editar adicionar e excluir coteúdos do site como os depoimentos, sliders etc...</p>
+<p>Moderador é o cargo que tem permissão para editar adicionar e excluir coteúdos do site como os depoimentos, slides etc...</p>
 <div align='center'>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/30f3216c-1ee7-4ae3-a9d1-6fa6ccc6410e'>
 </div>
@@ -121,7 +121,7 @@ Administradores é o cargo maximo que pode alterar dados de qualquer outro usuá
 <br/>
 
 ### Configurações gerais:
-<p>Aba relacionada as configurações gerais e também para entrar na sessão de criar / editar e excluir categorias ou noticias!</p>
+<p>Aba relacionada as configurações gerais e também para entrar na sessão de criar / editar e excluir categorias ou notícias!</p>
 <div align='center'>
   <img src='https://github.com/micher12/site_dinamico/assets/84326814/624bafed-cc30-4d63-9b65-1da9a4c2cf5a'>
 </div>
@@ -134,10 +134,10 @@ Administradores é o cargo maximo que pode alterar dados de qualquer outro usuá
 </div>
 
 ## Segurança:
-<p>Os metodos usados para acessar o banco de dados é 100% seguro contra ataques de php injection entre outros.</p>
+<p>Os metodos usados para acessar o banco de dados é 100% seguro contra ataques de php injection entre outros. </p>
 
 ### Informações:
-<p>Todas as informações estão guardadas no banco de dados da hospedagem. Sempre protegidas pelo dominio e certificado SSL fornecidos pela mesma.</p>
+<p>Todas as informações estão guardadas no banco de dados da hospedagem. Sempre protegidas pelo domínio e certificado SSL fornecidos pela mesma.</p>
 <br/>
 
 
